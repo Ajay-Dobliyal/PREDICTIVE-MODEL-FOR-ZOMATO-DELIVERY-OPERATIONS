@@ -1,6 +1,7 @@
 # PREDICTIVE-MODEL-FOR-ZOMATO-DELIVERY-OPERATIONS
 Supervised ML project aimed at forecasting the 'Time-taken' by delivery personnel, leveraging diverse factors
 Key methodologies included utilizing the **Haversine formula** for precise distance calculations based on latitude and longitude coordinates. 
+
 Utilized Lazypredict to systematically evaluate and compare various predictive models, ensuring the selection of the most accurate and efficient model for deployment.
 
 **Features:**
@@ -24,3 +25,5 @@ Multiple_deliveries: Indicator of whether multiple deliveries were made in the s
 Festival: Indicator of whether the delivery coincided with a festival.
 City: City where the delivery took place.
 Time_taken (min): Time taken for delivery in minutes.
+
+
