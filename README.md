@@ -1,5 +1,4 @@
-# PREDICTIVE-MODEL-FOR-ZOMATO-DELIVERY-OPERATIONS
-![image](https://github.com/Ajay-Dobliyal/PREDICTIVE-MODEL-FOR-ZOMATO-DELIVERY-OPERATIONS/assets/91046133/0654f97d-9d30-4745-b976-eb54f97fdf7b)
+# PREDICTIVE-MODEL-FOR-ZOMATO-DELIVERY-OPERATIONS ![image](https://github.com/Ajay-Dobliyal/PREDICTIVE-MODEL-FOR-ZOMATO-DELIVERY-OPERATIONS/assets/91046133/0654f97d-9d30-4745-b976-eb54f97fdf7b)
 
 Supervised ML project aimed at forecasting the 'Time-taken' by delivery personnel, leveraging diverse factors.
 
